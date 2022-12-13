@@ -1,0 +1,10 @@
+1. Credit card
+2. PCA-iris dataset
+3. Hyperparameter-heart disease
+4. Sklearn pipeline-iris
+5. Apriori
+6. SVM_loan dataset
+7. Random forest iris from sklearn 
+8. Adaboost iris from sklearn
+9. Real time dataset fetching (using your own key)
+10.Fake news train 
